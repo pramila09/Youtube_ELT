@@ -1,3 +1,4 @@
 venc/
 __pycache__/
 .env/
+logs/
