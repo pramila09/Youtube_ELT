@@ -1,4 +1,4 @@
 venc/
 __pycache__/
-.env/
+.env
 logs/
